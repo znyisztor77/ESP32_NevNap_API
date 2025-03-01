@@ -8,8 +8,8 @@
 #include <time.h>
 
 // Wi-Fi beállítások
-const char* ssid = "ASUS-Wifi";
-const char* password = "a5ydre2apHHu";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // OLED beállítások
 #define SCREEN_WIDTH 128
